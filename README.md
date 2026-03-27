@@ -9,13 +9,13 @@ This repository contains my submission for the King Fahd Causeway Authority (KFC
 ```
 repo_name/
 ├── question_1/
-│   └── solution.pdf
+│   └── question_1_report.pdf
 │
 ├── question_2/
-│   ├── notebook.ipynb
-│   ├── model.pth
-│   ├── test_predictions.csv
-│   └── report.pdf
+│ ├── accident_classifier.ipynb
+│ ├── accident_best_model.pth
+│ ├── test_predictions.csv
+│ └── question_2_report.pdf
 ```
 
 ---
