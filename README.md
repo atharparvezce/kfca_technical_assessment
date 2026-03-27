@@ -48,10 +48,10 @@ Build a binary image classification model to predict whether a CCTV frame contai
 
 | File | Description |
 |------|-------------|
-| notebook.ipynb | Full implementation (data prep, training, evaluation) |
-| model.pth | Trained model weights |
+| accident_classifier.ipynb | Full implementation (data prep, training, evaluation) |
+| accident_best_model.pth | Trained model weights |
 | test_predictions.csv | Model predictions on test dataset |
-| report.pdf | Explanation of approach, decisions and deployment plan |
+| question_2_report.pdf | Explanation of approach, decisions and deployment plan |
 
 ---
 
