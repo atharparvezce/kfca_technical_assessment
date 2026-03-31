@@ -22,7 +22,7 @@ repo_name/
 
 ## 🧠 Question 1 — Problem Framing
 
-This section contains a conceptual proposal for an AI-powered solution to improve KFCA operations.
+This section contains a conceptual proposal for an AI-powered solution to improve operations.
 
 ### 📄 Contents:
 - question1_report.pdf  
